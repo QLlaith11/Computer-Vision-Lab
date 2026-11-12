@@ -1,0 +1,6 @@
+import numpy as np
+import cv2 as cv
+
+
+
+cv.imread("P0.jfif",cv.IMREAD_GRAYSCALE)
